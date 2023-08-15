@@ -1,0 +1,137 @@
+ul,
+ol,
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.copyright p {
+  color: #fff;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+}
+
+a:link {
+  color: #fff;
+}
+a:visited {
+  color: #fff;
+}
+a:hover {
+  color: #0fb0d3;
+}
+a:active {
+  color: #0fb0d3;
+}
+
+.submit:hover {
+  background-color: #ddd;
+  border-color: 1px #ddd;
+  color: #0fb0d3;
+}
+p {
+  margin: 0;
+  font-size: 15px;
+  line-height: 24px;
+  font-weight: 300;
+}
+h1 {
+  color: #fff;
+  padding-top: 20px;
+  font-size: 100px;
+  line-height: 85px;
+  padding-bottom: 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+div.titlepage {
+  padding-bottom: 20px;
+  text-align: right;
+}
+.gallery_text p {
+  font-size: 17px;
+  line-height: 35px;
+  font-weight: 400;
+  text-align: right;
+  color: #181716;
+}
+.gallery {
+  background-color: #ececec;
+  padding: 110px 0;
+}
+
+.more_button {
+  font-size: 16px;
+  border-color: 1px #000;
+  background-color: #000;
+  color: #fff;
+  padding: 9px 0;
+  width: 100%;
+  max-width: 171px;
+  text-align: center;
+  border-radius: 30px;
+}
+.more_button:hover {
+  background-color: #0ed1f0;
+  border-color: 1px #0ed1f0;
+  color: #fff;
+}
+.about-box a {
+  border: 1px #000;
+  border-color: #000;
+  color: #fff;
+  padding: 9px 0;
+  max-width: 171px;
+  width: 100%;
+  text-align: center;
+  border-radius: 30px;
+}
+#footer {
+  margin-top: 90px;
+  background-color: #161616;
+}
+.news {
+  margin: 35px 0 50px 0;
+  max-width: 71%;
+}
+.social_link a {
+  font-size: 24px;
+  color: #161616;
+  background-color: #0fb0d3;
+  border-radius: 80px;
+  width: 40px;
+  height: 41px;
+}
+.social_link:hover ul > li > a {
+  color: #fff;
+  background-color: #0ed1f0;
+  border-radius: 17px;
+}
+
+.text-bg p {
+  font-size: 17px;
+  color: #fff;
+  line-height: 30px;
+  padding-bottom: 50px;
+  font-weight: 400;
+}
+.text-bg span {
+  font-size: 80px;
+  line-height: 80px;
+  color: #0fc9da;
+  text-transform: uppercase;
+}
+.slider_section {
+  padding-top: 268px;
+}
+.menu-area-main  a {
+  color: #fff;
+}
+
+.menu-area-main:hover a {
+  color: #fff;
+  background-color: #0ed1f0;
+  border-radius: 17px;
+}
