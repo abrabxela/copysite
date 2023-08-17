@@ -135,3 +135,19 @@ div.titlepage {
   background-color: #0ed1f0;
   border-radius: 17px;
 }
+.gallery_text a {
+  font-size: 16px;
+  border-color: #ececec;
+  background-color: #ececec;
+  color: #222222;
+  padding: 9px 0;
+  width: 100%;
+  max-width: 171px;
+  text-align: center;
+  border-radius: 30px;
+}
+.gallery_text a:hover {
+  background-color: #0ed1f0;
+  border-color: 1px #0ed1f0;
+  color: #fff;
+}
