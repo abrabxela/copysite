@@ -79,34 +79,6 @@ div.titlepage {
   text-align: center;
   border-radius: 30px;
 }
-#footer {
-  margin-top: 90px;
-  background-color: #161616;
-}
-.news {
-  margin: 35px 0 50px 0;
-  max-width: 71%;
-}
-.social_link a {
-  font-size: 24px;
-  color: #161616;
-  background-color: #0fb0d3;
-  border-radius: 80px;
-  width: 40px;
-  height: 41px;
-}
-.social_link:hover ul > li > a {
-  color: #fff;
-  background-color: #0ed1f0;
-  border-radius: 17px;
-}
-.text-bg p {
-  font-size: 17px;
-  color: #fff;
-  line-height: 30px;
-  padding-bottom: 50px;
-  font-weight: 400;
-}
 .menu-area-main  a {
   color: #fff;
 }
