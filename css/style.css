@@ -5,15 +5,15 @@ li {
   padding: 0;
   list-style: none;
 }
-
 .copyright p {
   color: #fff;
   font-size: 18px;
   line-height: 28px;
   text-align: center;
 }
-
-
+.copyright a {
+    color: #fff;
+}
 .submit:hover {
   background-color: #ddd;
   border-color: 1px #ddd;
@@ -50,7 +50,6 @@ div.titlepage {
   padding: 110px 0;
   margin-top: 90px;
 }
-
 .more_button {
   font-size: 16px;
   border-color: 1px #000;
@@ -98,7 +97,6 @@ div.titlepage {
   background-color: #0ed1f0;
   border-radius: 17px;
 }
-
 .text-bg p {
   font-size: 17px;
   color: #fff;
@@ -109,7 +107,6 @@ div.titlepage {
 .menu-area-main  a {
   color: #fff;
 }
-
 .menu-area-main a:hover {
   color: #fff;
   background-color: #0ed1f0;
