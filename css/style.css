@@ -13,20 +13,7 @@ li {
   text-align: center;
 }
 
-<!--
-a:link {
-  color: #fff;
-}
-a:visited {
-  color: #fff;
-}
-a:hover {
-  color: #0fb0d3;
-}
-a:active {
-  color: #0fb0d3;
-}
--->
+
 .submit:hover {
   background-color: #ddd;
   border-color: 1px #ddd;
